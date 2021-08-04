@@ -1,0 +1,31 @@
+version: 1.0 ||
+===============
+# Dont Change Version!!
+
+
+
+
+
+# \n To Space
+# § To Color
+# Configuration Here!!
+nopermission-message: '§cUpgrade Your Rank To Unlock Feature Here!!'
+failedheal-message: '§l§cGAGAL!!§r§b Kamu Tidak Terluka!!'
+succesheal-message: '§l§aBERHASIL!!§r§b Kamu Telah Di Pulihkan!!'
+failedfeed-message: '§l§cGAGAL!!§r§b Kamu Tidak Lapar!!'
+succesfeed-message: '§l§aBERHASIL!!§r§b Kamu Sekarang Tidak Kelaparan Lagi!!'
+title: '§aHeal Feed UI'
+content: '§bSelect:'
+healbutton-unlocked: '§a-- USE --'
+feedbutton-unlocked: '§a-- USE --'
+healbutton-locked: '§cFor Ranks §a[VIP]§c Or Higher!'
+feedbutton-locked: '§cFor Ranks §6[MEMBER]§c Or Higher!'
+backbutton: '§c§lBack'
+exitbutton: '§c§lExit'
+healbutton-money: '§a-- Rp.50000 --'
+feedbutton-money: '§a-- Rp.50000 --'
+withpermission-button: '§a-- With Ranks --'
+withmoney-button: '§a-- With Money --'
+heal-money: 50000
+feed-money: 50000
+nomoney-message: '§cUang Mu Tidak Cukup!!'

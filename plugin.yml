@@ -1,0 +1,11 @@
+name: HealFeedUI
+main: AldySan\HealFeedUI\Main
+api: 3.0.0
+version: 1.0.0
+author: AldySan
+description: Heal Feed With Ui And Feature More!!
+depend: [PurePerms, EconomyAPI]
+commands:
+  healfeed:
+    description: "Heel Feed UI"
+    default: true
